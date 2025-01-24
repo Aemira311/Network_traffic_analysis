@@ -10,10 +10,6 @@ Protocol (TCP, UDP, ICMP)
 Source and Destination Ports (if applicable)
 Identifies protocols and maps protocol numbers to human-readable names.
 
-## 2-Traffic Insights:
-Differentiates between local (127.0.0.1) and external network traffic.
-Analyzes ICMP traffic, such as ping requests, and TCP communications.
-
 ## Observations:
 Highlights traffic patterns, missing ports, and unusual configurations.
 Explains scenarios like virtual network interfaces without ports.
