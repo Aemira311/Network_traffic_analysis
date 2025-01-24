@@ -37,5 +37,8 @@ Support for additional protocols.
 Advanced filtering and analysis based on user-defined criteria.
 Graphical visualization of traffic patterns.
 
+## Contribution
+Contributions are welcome! If you have ideas for enhancements or bug fixes, feel free to open an issue or submit a pull request.
+
 Email: abdelrahman.emira311@gmail.com LinkedIn: www.linkedin.com/in/abdelrahman-emira-48b187239
 
