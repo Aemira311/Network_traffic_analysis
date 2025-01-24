@@ -40,5 +40,8 @@ Graphical visualization of traffic patterns.
 ## Contribution
 Contributions are welcome! If you have ideas for enhancements or bug fixes, feel free to open an issue or submit a pull request.
 
-Email: abdelrahman.emira311@gmail.com LinkedIn: www.linkedin.com/in/abdelrahman-emira-48b187239
+## Contact
+For any questions or contributions, feel free to reach out:
+Email: abdelrahman.emira311@gmail.com
+LinkedIn: www.linkedin.com/in/abdelrahman-emira-48b187239
 
